@@ -1,0 +1,15 @@
+{
+  "name": "Coderunner",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A simple theme based on the CodeRunner 2 theme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/xiy/coderunner-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
