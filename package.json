@@ -1,7 +1,7 @@
 {
   "name": "Coderunner",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A simple theme based on the CodeRunner 2 theme.",
   "keywords": [
     "syntax",
