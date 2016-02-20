@@ -1,5 +1,5 @@
 {
-  "name": "Coderunner",
+  "name": "coderunner-syntax",
   "theme": "syntax",
   "version": "0.2.0",
   "description": "A simple theme based on the CodeRunner 2 theme.",
